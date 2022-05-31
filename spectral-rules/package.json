@@ -1,0 +1,11 @@
+{
+  "name": "spectral-rules",
+  "version": "1.0.0",
+  "description": "Rulesfor Spectral",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-beta.21"
+  }
+}

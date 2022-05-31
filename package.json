@@ -1,0 +1,14 @@
+{
+  "name": "project-docs",
+  "version": "1.0.0",
+  "description": "Multiple docs projects as monorepo",
+  "main": "index.js",
+  "repository": "git@github.com:ocular-d/dr-bunsen.git",
+  "author": "sven <sven@so36.net>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "dr-bunsen",
+    "spectral-rules"
+    ]
+}
